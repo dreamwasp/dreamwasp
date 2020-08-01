@@ -4,9 +4,9 @@
   javascript **|** react **|** react-native **|** gatsby.js **|** node.js **|** postgres **|** firestore **|** redux
 
 ### goofing around with...
-  typescript **|** machine learning **|** vue.js
+  typescript **|** machine learning **|** vue.js 
   
 ### collating tutorials on...
-  haskell **|** python **|** deep learning
+  haskell **|** python **|** deep learning **|** next.js
   
 
